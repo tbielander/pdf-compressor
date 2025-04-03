@@ -50,6 +50,3 @@ get_jpg() {
 # Hauptprogramm
 [ -d $2 ] || mkdir $2
 get_jpg $1 $2
-
-
-
